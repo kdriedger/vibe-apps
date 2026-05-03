@@ -1,0 +1,19 @@
+[
+  {
+    "id": "habitvibe",
+    "name": "HabitVibe",
+    "description": "Beautiful habit tracker that actually feels good to use. Vibe-coded in one weekend.",
+    "version": "1.2.3",
+    "author": "linuxbox",
+    "downloadUrl": "https://example.com/habitvibe.apk",
+    "iconUrl": "https://example.com/icons/habit.png",
+    "tags": [
+      "productivity",
+      "habits"
+    ],
+    "price": 0,
+    "websiteUrl": "",
+    "sourceUrl": "",
+    "status": "active"
+  }
+]
