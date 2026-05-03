@@ -6,14 +6,42 @@
     "version": "1.2.3",
     "author": "linuxbox",
     "downloadUrl": "https://example.com/habitvibe.apk",
-    "iconUrl": "https://example.com/icons/habit.png",
-    "tags": [
-      "productivity",
-      "habits"
-    ],
+    "iconUrl": "",
+    "tags": ["productivity", "habits"],
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "",
+    "changelog": "Sample entry — placeholder",
+    "status": "active"
+  },
+  {
+    "id": "bible-keep",
+    "name": "Bible Keep",
+    "description": "Google Keep-style note-taking app with Bible verse insertion. Create text notes, auto-detect verse references (e.g. 'matt 5:12'), and fetch verses from API.Bible in NLT translation.",
+    "version": "0.5.1",
+    "author": "linuxbox",
+    "downloadUrl": "https://github.com/kdriedger/vibe-store/releases/download/v1.0.0/bible-keep-v0.5.1.apk",
+    "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/bible-keep.png",
+    "tags": ["productivity", "notes", "bible", "reference"],
+    "price": 0,
+    "websiteUrl": "",
+    "sourceUrl": "https://github.com/kdriedger/bible.keep",
+    "changelog": "Initial release on VibeStore. Note creation, auto verse detection, API.Bible integration.",
+    "status": "active"
+  },
+  {
+    "id": "watch-battery",
+    "name": "Watch Battery",
+    "description": "Monitor your Bluetooth watch battery level from your phone. Connects via BLE, shows battery percentage, and sends low-battery notifications so you're never caught with a dead watch.",
+    "version": "0.7.4",
+    "author": "linuxbox",
+    "downloadUrl": "https://github.com/kdriedger/vibe-store/releases/download/v1.0.0/watch-battery-v0.7.4.apk",
+    "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/watch-battery.png",
+    "tags": ["utilities", "bluetooth", "watch", "battery"],
+    "price": 0,
+    "websiteUrl": "",
+    "sourceUrl": "https://github.com/kdriedger/watch_battery",
+    "changelog": "Initial release on VibeStore. BLE watch battery monitoring with low-battery notifications.",
     "status": "active"
   }
 ]
