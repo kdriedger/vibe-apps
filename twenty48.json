@@ -4,7 +4,7 @@
   "description": "A modern Flutter Flame implementation of the classic 2048 puzzle game. Smooth tile animations, score tracking, and a sleek dark-mode UI with Flutter-inspired accents.",
   "version": "1.0.0",
   "author": "linuxbox",
-  "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.0.0/twenty48-v1.0.0.apk",
+  "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.0.2/twenty48-v1.0.0.apk",
   "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/twenty48.png",
   "tags": ["game", "puzzle", "2048", "flame"],
   "price": 0,
