@@ -48,15 +48,15 @@
     "id": "vibestore",
     "name": "VibeStore",
     "description": "Your personal Android app store for vibe-coded apps. Hand-crafted. No corporate nonsense. Browse, discover, and download independently developed Android apps.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "linuxbox",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.0.0/vibestore-v1.0.0.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.0.1/vibestore-v1.0.1.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/vibestore.png",
     "tags": ["app-store", "marketplace", "android", "indie"],
     "price": 0,
     "websiteUrl": "https://www.extremedesigners.ca/vibestore",
     "sourceUrl": "https://github.com/kdriedger/vibe-store",
-    "changelog": "Initial release. Browse app catalog, download APKs, discover indie apps.",
+    "changelog": "Updated app icon. Added Android platform support.",
     "status": "active"
   }
 ]
