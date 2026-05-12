@@ -15,6 +15,6 @@
   "price": 0,
   "websiteUrl": "",
   "sourceUrl": "https://dev.azure.com/linuxbox0948/twenty48/_git/twenty48",
-  "changelog": "fix: swipe not registering after axis lock",
+  "changelog": "v1.3.2: final board screenshot saved per entry, user note input, date-only labels",
   "status": "active"
 }
