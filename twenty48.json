@@ -2,9 +2,9 @@
   "id": "twenty48",
   "name": "Twenty48",
   "description": "A modern Flutter Flame implementation of the classic 2048 puzzle game. Smooth tile animations, score tracking, and a sleek dark-mode UI with Flutter-inspired accents.",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "author": "linuxbox",
-  "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.3.2/twenty48-1.3.2.apk",
+  "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.3.3/twenty48-1.3.3.apk",
   "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/twenty48.png",
   "tags": [
     "game",
@@ -15,6 +15,6 @@
   "price": 0,
   "websiteUrl": "",
   "sourceUrl": "https://dev.azure.com/linuxbox0948/twenty48/_git/twenty48",
-  "changelog": "v1.3.2: final board screenshot saved per entry, user note input, date-only labels",
+  "changelog": "v1.3.3: high score board retains final screenshot, user notes, date-only",
   "status": "active"
 }
