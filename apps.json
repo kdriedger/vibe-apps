@@ -7,11 +7,14 @@
     "author": "linuxbox",
     "downloadUrl": "https://example.com/habitvibe.apk",
     "iconUrl": "",
-    "tags": ["productivity", "habits"],
+    "tags": [
+      "productivity",
+      "habits"
+    ],
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "",
-    "changelog": "Sample entry — placeholder",
+    "changelog": "Sample entry \u2014 placeholder",
     "status": "active"
   },
   {
@@ -22,7 +25,12 @@
     "author": "linuxbox",
     "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.0.0/bible-keep-v0.5.1.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/bible-keep.png",
-    "tags": ["productivity", "notes", "bible", "reference"],
+    "tags": [
+      "productivity",
+      "notes",
+      "bible",
+      "reference"
+    ],
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/bible.keep",
@@ -32,12 +40,17 @@
   {
     "id": "watch-battery",
     "name": "Watch Battery Monitor",
-    "description": "Monitors your Pixel Watch battery over BLE and automatically controls a TP-Link Kasa smart plug to manage charging. Set custom high/low thresholds — the plug turns on when battery drops and turns off when fully charged.",
+    "description": "Monitors your Pixel Watch battery over BLE and automatically controls a TP-Link Kasa smart plug to manage charging. Set custom high/low thresholds \u2014 the plug turns on when battery drops and turns off when fully charged.",
     "version": "0.7.5",
     "author": "Kevin Driedger",
     "downloadUrl": "https://github.com/kdriedger/watch-battery/releases/download/v0.7.5/app-release.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/watch-battery/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-    "tags": ["tools", "automation", "health", "lifestyle"],
+    "tags": [
+      "tools",
+      "automation",
+      "health",
+      "lifestyle"
+    ],
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/watch-battery",
@@ -52,7 +65,12 @@
     "author": "linuxbox",
     "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.0.3/vibestore-v1.0.3.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/vibestore.png",
-    "tags": ["app-store", "marketplace", "android", "indie"],
+    "tags": [
+      "app-store",
+      "marketplace",
+      "android",
+      "indie"
+    ],
     "price": 0,
     "websiteUrl": "https://www.extremedesigners.ca/vibestore",
     "sourceUrl": "https://github.com/kdriedger/vibe-store",
@@ -63,15 +81,20 @@
     "id": "twenty48",
     "name": "Twenty48",
     "description": "A modern Flutter Flame implementation of the classic 2048 puzzle game. Smooth tile animations, score tracking, and a sleek dark-mode UI with Flutter-inspired accents.",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "author": "linuxbox",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.3.0/twenty48-1.3.0.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.3.1/app-release.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/twenty48.png",
-    "tags": ["game", "puzzle", "2048", "flame"],
+    "tags": [
+      "game",
+      "puzzle",
+      "2048",
+      "flame"
+    ],
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://dev.azure.com/linuxbox0948/twenty48/_git/twenty48",
-    "changelog": "v1.3.0 — Responsive layout, screenshot score superscripts, tiles adapt to window size, larger Linux default window.",
+    "changelog": "v1.3.1: patch bump, gesture tests, vibe store publish skill",
     "status": "active"
   }
 ]
