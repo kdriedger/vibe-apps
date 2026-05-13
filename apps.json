@@ -54,7 +54,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/watch-battery",
-    "changelog": "v0.7.7: fix app crash on Start background service - native BatteryPoller replaces background MethodChannel",
+    "changelog": "v0.7.7: add crash diagnostics - errors now shown in UI snackbar and notification",
     "status": "active"
   },
   {
