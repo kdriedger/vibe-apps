@@ -1,23 +1,5 @@
 [
   {
-    "id": "habitvibe",
-    "name": "HabitVibe",
-    "description": "Beautiful habit tracker that actually feels good to use. Vibe-coded in one weekend.",
-    "version": "1.2.3",
-    "author": "linuxbox",
-    "downloadUrl": "https://example.com/habitvibe.apk",
-    "iconUrl": "",
-    "tags": [
-      "productivity",
-      "habits"
-    ],
-    "price": 0,
-    "websiteUrl": "",
-    "sourceUrl": "",
-    "changelog": "Sample entry \u2014 placeholder",
-    "status": "active"
-  },
-  {
     "id": "bible-keep",
     "name": "Bible Keep",
     "description": "Google Keep-style note-taking app with Bible verse insertion. Create text notes, auto-detect verse references (e.g. 'matt 5:12'), and fetch verses from API.Bible in NLT translation.",
