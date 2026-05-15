@@ -22,16 +22,21 @@
   {
     "id": "watch-battery",
     "name": "Watch Battery Monitor",
-    "description": "Monitors your Pixel Watch battery over BLE and automatically controls a TP-Link Kasa smart plug to manage charging. Set custom high/low thresholds — the plug turns on when battery drops and turns off when fully charged.",
+    "description": "Monitors your Pixel Watch battery over BLE and automatically controls a TP-Link Kasa smart plug to manage charging. Set custom high/low thresholds \u2014 the plug turns on when battery drops and turns off when fully charged.",
     "version": "0.8.0",
     "author": "Kevin Driedger",
     "downloadUrl": "https://github.com/kdriedger/watch-battery/releases/download/v0.8.0/app-release.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/watch-battery/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-    "tags": ["tools", "automation", "health", "lifestyle"],
+    "tags": [
+      "tools",
+      "automation",
+      "health",
+      "lifestyle"
+    ],
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/watch-battery",
-    "changelog": "v0.8.0: Diagnostics — notification shows device ID + timestamp, app shows poll status, connection errors, and background service state for debugging.",
+    "changelog": "v0.8.0: Diagnostics \u2014 notification shows device ID + timestamp, app shows poll status, connection errors, and background service state for debugging.",
     "status": "active"
   },
   {
@@ -58,9 +63,9 @@
     "id": "twenty48",
     "name": "Twenty48",
     "description": "A modern Flutter Flame implementation of the classic 2048 puzzle game. Smooth tile animations, score tracking, and a sleek dark-mode UI with Flutter-inspired accents.",
-    "version": "1.3.4",
+    "version": "1.3.5",
     "author": "linuxbox",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.3.4/twenty48-v1.3.4.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.3.5/twenty48-1.3.5.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/twenty48.png",
     "tags": [
       "game",
@@ -71,7 +76,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://dev.azure.com/linuxbox0948/twenty48/_git/twenty48",
-    "changelog": "v1.3.4: uniform grid gaps - edge margins now match inter-tile gaps (8px uniform)",
+    "changelog": "publish script: guard against publishing lower version than what is already in vibe store",
     "status": "active"
   }
 ]
