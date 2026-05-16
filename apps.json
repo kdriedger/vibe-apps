@@ -23,9 +23,9 @@
     "id": "watch-battery",
     "name": "Watch Battery Monitor",
     "description": "Monitors your Pixel Watch battery over BLE and automatically controls a TP-Link Kasa smart plug to manage charging. Set custom high/low thresholds \u2014 the plug turns on when battery drops and turns off when fully charged.",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "author": "Kevin Driedger",
-    "downloadUrl": "https://github.com/kdriedger/watch-battery/releases/download/v0.8.0/app-release.apk",
+    "downloadUrl": "https://github.com/kdriedger/watch-battery/releases/download/v0.8.1/watch-battery-v0.8.1.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/watch-battery/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "tags": [
       "tools",
@@ -36,7 +36,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/watch-battery",
-    "changelog": "v0.8.0: Diagnostics \u2014 notification shows device ID + timestamp, app shows poll status, connection errors, and background service state for debugging.",
+    "changelog": "v0.8.1: add configurable charge alarm (default 80%) — toggle + slider, fires a high-priority notification when the threshold is reached",
     "status": "active"
   },
   {
