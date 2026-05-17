@@ -78,5 +78,25 @@
     "sourceUrl": "https://dev.azure.com/linuxbox0948/twenty48/_git/twenty48",
     "changelog": "publish script: guard against publishing lower version than what is already in vibe store",
     "status": "active"
+  },
+  {
+    "id": "sheetapp",
+    "name": "SheetApp",
+    "description": "Convert spreadsheets (CSV/XLSX) into Android form apps. Supports field types, validation rules, dropdown fields, conditional logic, and form sections.",
+    "version": "1.1.0",
+    "author": "Kevin Driedger",
+    "downloadUrl": "https://github.com/kdriedger/sheetapp/releases/download/v1.1.0/sheetapp-v1.1.0.apk",
+    "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/sheetapp.png",
+    "tags": [
+      "tools",
+      "productivity",
+      "spreadsheet",
+      "forms"
+    ],
+    "price": 0,
+    "websiteUrl": "",
+    "sourceUrl": "https://github.com/kdriedger/sheetapp",
+    "changelog": "v1.1.0: data validation rules, select/dropdown, conditional logic, form sections",
+    "status": "active"
   }
 ]
