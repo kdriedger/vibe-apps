@@ -83,9 +83,9 @@
     "id": "sheetapp",
     "name": "SheetApp",
     "description": "Convert spreadsheets (CSV/XLSX) into Android form apps.",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "author": "Kevin Driedger",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.1.5/sheetapp-v1.1.5.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.1.6/sheetapp-v1.1.6.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/sheetapp.png",
     "tags": [
       "tools",
@@ -95,7 +95,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/sheetapp",
-    "changelog": "v1.1.5: fix Region dropdown disabled on load, fix Favorite Color grey bar, add dropdown + email E2E tests",
+    "changelog": "v1.1.6: fix dropdowns disabled/grey bar, fix email regex for + aliases, add 5 comprehensive E2E tests",
     "status": "active"
   }
 ]
