@@ -83,9 +83,9 @@
     "id": "sheetapp",
     "name": "SheetApp",
     "description": "Convert spreadsheets (CSV/XLSX) into Android form apps. Supports field types, validation rules, dropdown fields, conditional logic, and form sections.",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "author": "Kevin Driedger",
-    "downloadUrl": "https://github.com/kdriedger/sheetapp/releases/download/v1.1.1/sheetapp-v1.1.1.apk",
+    "downloadUrl": "https://github.com/kdriedger/sheetapp/releases/download/v1.1.2/sheetapp-v1.1.2.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/sheetapp.png",
     "tags": [
       "tools",
@@ -96,7 +96,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/sheetapp",
-    "changelog": "v1.1.1: fix CSV parser to actually populate validation rules (min/max/pattern)",
+    "changelog": "v1.1.2: live validation + constraint hints shown under fields",
     "status": "active"
   }
 ]
