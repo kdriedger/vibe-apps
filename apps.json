@@ -83,9 +83,9 @@
     "id": "sheetapp",
     "name": "SheetApp",
     "description": "Convert spreadsheets (CSV/XLSX) into Android form apps.",
-    "version": "1.1.8",
+    "version": "1.2.1",
     "author": "Kevin Driedger",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.1.8/sheetapp-v1.1.8.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.2.1/sheetapp-v1.2.1.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/sheetapp.png",
     "tags": [
       "tools",
@@ -95,7 +95,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/sheetapp",
-    "changelog": "v1.1.8: REAL fix — FormStorageService didn't serialize options/pattern/formula/showIf/min/max; sessions loaded without dropdown options or email validation. Added serialization for all field metadata + migration to clear corrupt sessions.",
+    "changelog": "v1.2.1: full-screen signature pad with Accept/Clear buttons, bezier smoothing, landscape lock — no more scroll conflicts",
     "status": "active"
   }
 ]
