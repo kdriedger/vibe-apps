@@ -3,9 +3,9 @@
     "id": "bible-keep",
     "name": "Bible Keep",
     "description": "Google Keep-style note-taking app with Bible verse insertion. Create text notes, auto-detect verse references (e.g. 'matt 5:12'), and fetch verses from API.Bible in NLT translation.",
-    "version": "0.5.5",
+    "version": "0.5.6",
     "author": "linuxbox",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v0.5.5/bible-keep-v0.5.5.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v0.5.6/bible-keep-v0.5.6.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/bible-keep.png",
     "tags": [
       "productivity",
@@ -16,7 +16,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/bible.keep",
-    "changelog": "v0.5.5: redesigned note editor to match Google Keep style — color palette, pin, cleaner UI",
+    "changelog": "v0.5.6: auth fixes, Google Drive sync improvements",
     "status": "active"
   },
   {
