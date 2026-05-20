@@ -97,5 +97,24 @@
     "sourceUrl": "https://github.com/kdriedger/sheetapp",
     "changelog": "v1.2.2: barcode lookup — scan a product to see its name, brand, and image via Open Food Facts",
     "status": "active"
+  },
+  {
+    "id": "vitaminder",
+    "name": "Vitaminder",
+    "description": "A simple vitamin reminder app. Tap the star to log your vitamins and stay on track with your daily supplements.",
+    "version": "1.1.0",
+    "author": "Kevin Driedger",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.1.0/vitaminder-v1.1.0.apk",
+    "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/vitaminder.png",
+    "tags": [
+      "health",
+      "lifestyle",
+      "reminder"
+    ],
+    "price": 0,
+    "websiteUrl": "",
+    "sourceUrl": "https://dev.azure.com/linuxbox0948/vitaminder/_git/vitaminder",
+    "changelog": "v1.1.0: first release",
+    "status": "active"
   }
 ]
