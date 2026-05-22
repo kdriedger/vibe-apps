@@ -36,7 +36,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/watch-battery",
-    "changelog": "v0.8.2: charge alarm now uses dedicated alert channel with sound + vibration — won't miss it",
+    "changelog": "v0.8.2: charge alarm now uses dedicated alert channel with sound + vibration \u2014 won't miss it",
     "status": "active"
   },
   {
@@ -63,9 +63,9 @@
     "id": "twenty48",
     "name": "Twenty48",
     "description": "A modern Flutter Flame implementation of the classic 2048 puzzle game. Smooth tile animations, score tracking, and a sleek dark-mode UI with Flutter-inspired accents.",
-    "version": "1.3.5",
+    "version": "1.4.0",
     "author": "linuxbox",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.3.5/twenty48-1.3.5.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.4.0/twenty48-1.4.0.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/twenty48.png",
     "tags": [
       "game",
@@ -76,7 +76,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://dev.azure.com/linuxbox0948/twenty48/_git/twenty48",
-    "changelog": "publish script: guard against publishing lower version than what is already in vibe store",
+    "changelog": "v1.4.0: dark/light theme support, confetti particles on new high tile, intro screen with bounce-in animation, landscape layout fix",
     "status": "active"
   },
   {
@@ -95,7 +95,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/sheetapp",
-    "changelog": "v1.2.2: barcode lookup — scan a product to see its name, brand, and image via Open Food Facts",
+    "changelog": "v1.2.2: barcode lookup \u2014 scan a product to see its name, brand, and image via Open Food Facts",
     "status": "active"
   },
   {
