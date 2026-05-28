@@ -102,9 +102,9 @@
     "id": "vitaminder",
     "name": "Vitaminder",
     "description": "A simple vitamin reminder app. Tap the star to log your vitamins and stay on track with your daily supplements.",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "author": "Kevin Driedger",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.2.5/vitaminder-v1.2.5.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.2.6/vitaminder-v1.2.6.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/vitaminder.png",
     "tags": [
       "health",
@@ -114,7 +114,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://dev.azure.com/linuxbox0948/vitaminder/_git/vitaminder",
-    "changelog": "v1.2.5: fix version display \u2014 use dynamic version from pubspec.yaml (was hardcoded in build.gradle)",
+    "changelog": "v1.2.6: in-app diagnostic viewer (long-press version), fix version consistency",
     "status": "active"
   }
 ]
