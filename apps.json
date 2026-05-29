@@ -102,9 +102,9 @@
     "id": "vitaminder",
     "name": "Vitaminder",
     "description": "A simple vitamin reminder app. Tap the star to log your vitamins and stay on track with your daily supplements.",
-    "version": "1.2.8",
+    "version": "1.2.9",
     "author": "Kevin Driedger",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.2.8/vitaminder-v1.2.8.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.2.9/vitaminder-v1.2.9.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/vitaminder.png",
     "tags": [
       "health",
@@ -114,7 +114,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://dev.azure.com/linuxbox0948/vitaminder/_git/vitaminder",
-    "changelog": "v1.2.8: switch to alarmClock schedule mode \u2014 fires reliably without SCHEDULE_EXACT_ALARM",
+    "changelog": "v1.2.9: Reset Streak button in diagnostics, alarmClock schedule mode",
     "status": "active"
   }
 ]
