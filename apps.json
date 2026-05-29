@@ -102,9 +102,9 @@
     "id": "vitaminder",
     "name": "Vitaminder",
     "description": "A simple vitamin reminder app. Tap the star to log your vitamins and stay on track with your daily supplements.",
-    "version": "1.2.10",
+    "version": "1.2.11",
     "author": "Kevin Driedger",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.2.10/vitaminder-v1.2.10.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.2.11/vitaminder-v1.2.11.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/vitaminder.png",
     "tags": [
       "health",
@@ -114,7 +114,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://dev.azure.com/linuxbox0948/vitaminder/_git/vitaminder",
-    "changelog": "v1.2.10: fix cache clear \u2014 use commit() not apply() so cache is cleared before zonedSchedule retries",
+    "changelog": "v1.2.11: Copy Log button in diagnostics (copies chronological event log to clipboard)",
     "status": "active"
   }
 ]
