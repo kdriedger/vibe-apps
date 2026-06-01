@@ -26,7 +26,7 @@
     "version": "0.8.2",
     "author": "Kevin Driedger",
     "downloadUrl": "https://github.com/kdriedger/watch-battery/releases/download/v0.8.2/watch-battery-v0.8.2.apk",
-    "iconUrl": "https://raw.githubusercontent.com/kdriedger/watch-battery/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/watch-battery.png",
     "tags": [
       "tools",
       "automation",
