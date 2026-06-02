@@ -82,20 +82,22 @@
   {
     "id": "sheetapp",
     "name": "SheetApp",
-    "description": "Convert spreadsheets (CSV/XLSX) into Android form apps.",
-    "version": "1.2.2",
+    "description": "Convert spreadsheets (CSV/XLSX) into full Android apps. Multi-screen support with forms, lists, dashboards, and details. Rich native fields (photo, signature, GPS, barcode scan, graphs, links), live formulas, conditionals, local storage, Google Sheets sync, and standalone APK generator.",
+    "version": "1.3.0",
     "author": "Kevin Driedger",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.2.2/sheetapp-v1.2.2.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.3.0/sheetapp-v1.3.0.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/sheetapp.png",
     "tags": [
       "tools",
       "productivity",
-      "spreadsheet"
+      "spreadsheet",
+      "forms",
+      "data"
     ],
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/sheetapp",
-    "changelog": "v1.2.2: barcode lookup \u2014 scan a product to see its name, brand, and image via Open Food Facts",
+    "changelog": "v1.3.0: Real list, detail, and dashboard screens for multi-screen apps (data binding from saved records, create/edit from lists). Improved multi-screen navigation and data views. See docs/demos/feature1-list-dashboard.mp4",
     "status": "active"
   },
   {
