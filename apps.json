@@ -118,5 +118,25 @@
     "sourceUrl": "https://dev.azure.com/linuxbox0948/vitaminder/_git/vitaminder",
     "changelog": "v1.2.19: fix NFC cold-start \u2014 tap once from home screen or screen off",
     "status": "active"
+  },
+  {
+    "id": "2048-tetris",
+    "name": "2048-Tetris",
+    "description": "2048 meets Tetris: one falling tile at a time. Slide left or right to merge matching numbers, reach the 2048 tile, and survive as the drop speed increases.",
+    "version": "0.1.0",
+    "author": "linuxbox",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v0.1.0/2048-tetris-v0.1.0.apk",
+    "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/2048-tetris.png",
+    "tags": [
+      "game",
+      "puzzle",
+      "2048",
+      "tetris"
+    ],
+    "price": 0,
+    "websiteUrl": "",
+    "sourceUrl": "",
+    "changelog": "v0.1.0: First release — Flutter port of Prateek Agarwal's 2048-Tetris with swipe controls and difficulty levels",
+    "status": "active"
   }
 ]
