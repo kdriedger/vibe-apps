@@ -17,7 +17,8 @@
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/bible.keep",
     "changelog": "v0.5.11: fix verse detection on existing text when pressing Enter",
-    "status": "active"
+    "status": "active",
+    "packageName": "keep.bible.app"
   },
   {
     "id": "watch-battery",
@@ -37,7 +38,8 @@
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/watch-battery",
     "changelog": "v0.8.2: charge alarm now uses dedicated alert channel with sound + vibration \u2014 won't miss it",
-    "status": "active"
+    "status": "active",
+    "packageName": "com.example.watch_battery"
   },
   {
     "id": "vibestore",
@@ -57,7 +59,8 @@
     "websiteUrl": "https://www.extremedesigners.ca/vibestore",
     "sourceUrl": "https://github.com/kdriedger/vibe-store",
     "changelog": "v1.0.3: Fix 'Could not open download link' error. Added https/http scheme queries for url_launcher.",
-    "status": "active"
+    "status": "active",
+    "packageName": "com.example.vibestore"
   },
   {
     "id": "twenty48",
@@ -77,7 +80,8 @@
     "websiteUrl": "",
     "sourceUrl": "https://dev.azure.com/linuxbox0948/twenty48/_git/twenty48",
     "changelog": "v1.4.1: Twenty48 updated",
-    "status": "active"
+    "status": "active",
+    "packageName": "com.example.twenty48"
   },
   {
     "id": "sheetapp",
@@ -98,7 +102,8 @@
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/sheetapp",
     "changelog": "v1.4.0: Minor version bump per project policy (bump second number after every feature). Includes UX improvements for multi-screen forms: added Save record button inside form steps (Back/Next navigation), New/Add Record now collects fields from all form screens. Fixed so multiple steps (e.g. Personal Info + Preferences) can be filled and persisted to list/dashboard views. Updated demo CSV and docs.",
-    "status": "active"
+    "status": "active",
+    "packageName": "com.example.sheetapp"
   },
   {
     "id": "vitaminder",
@@ -117,7 +122,8 @@
     "websiteUrl": "",
     "sourceUrl": "https://dev.azure.com/linuxbox0948/vitaminder/_git/vitaminder",
     "changelog": "v1.2.19: fix NFC cold-start \u2014 tap once from home screen or screen off",
-    "status": "active"
+    "status": "active",
+    "packageName": "ca.extremedesigners.vitaminder"
   },
   {
     "id": "2048-tetris",
@@ -137,6 +143,7 @@
     "websiteUrl": "",
     "sourceUrl": "",
     "changelog": "v0.1.0: First release \u2014 Flutter port of Prateek Agarwal's 2048-Tetris with swipe controls and difficulty levels",
-    "status": "active"
+    "status": "active",
+    "packageName": "com.example.tetris_2048"
   }
 ]
