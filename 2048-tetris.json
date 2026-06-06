@@ -17,5 +17,5 @@
   "sourceUrl": "",
   "changelog": "v0.1.0: First release \u2014 Flutter port of Prateek Agarwal's 2048-Tetris with swipe controls and difficulty levels",
   "status": "active",
-  "packageName": "com.example.tetris_2048"
+  "packageName": "ca.extremedesigners.tetris_2048"
 }
