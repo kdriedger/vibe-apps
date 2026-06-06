@@ -97,7 +97,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/sheetapp",
-    "changelog": "v1.3.1: Fix multi-screen list add/edit — Save button now persists records and returns to list. No more phantom empty rows on open. Clearer hints that Back/Next form screens are preview-only; use Add Record then Save. v1.3.0 added real list/dashboard/detail screens with data binding.",
+    "changelog": "v1.3.1: Fixed multi-screen form saving UX. You can now fill multiple form steps (via Back/Next in the multi navigator), then tap Save record button on the form screen to persist data that appears in list/dashboard views. New also collects fields from all form steps. Added save-from-forms capability and updated demo.",
     "status": "active"
   },
   {
@@ -136,7 +136,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "",
-    "changelog": "v0.1.0: First release — Flutter port of Prateek Agarwal's 2048-Tetris with swipe controls and difficulty levels",
+    "changelog": "v0.1.0: First release \u2014 Flutter port of Prateek Agarwal's 2048-Tetris with swipe controls and difficulty levels",
     "status": "active"
   }
 ]
