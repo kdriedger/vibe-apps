@@ -3,9 +3,9 @@
     "id": "bible-keep",
     "name": "Bible Keep",
     "description": "Google Keep-style note-taking app with Bible verse insertion. Create text notes, auto-detect verse references (e.g. 'matt 5:12'), and fetch verses from API.Bible in NLT translation.",
-    "version": "0.5.12",
+    "version": "0.5.13",
     "author": "linuxbox",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v0.5.12/bible-keep-v0.5.12.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v0.5.13/bible-keep-v0.5.13.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/bible-keep.png",
     "tags": [
       "productivity",
@@ -16,7 +16,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://github.com/kdriedger/bible.keep",
-    "changelog": "v0.5.12: Fix copy/cut context menu not appearing when tapping on selected/highlighted text — GestureDetector was intercepting taps before the TextField could show cut/copy/paste. Also fix Google login failure (package name changed to ca.extremedesigners.bible_keep — see GCP steps).",
+    "changelog": "v0.5.13: Sync status now auto-dismisses after 3 seconds like a toast instead of showing a permanent banner. Fix copy/cut context menu not appearing on selected text. Google login needs GCP update (see note).",
     "status": "active",
     "packageName": "ca.extremedesigners.bible_keep"
   },
