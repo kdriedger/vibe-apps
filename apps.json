@@ -109,9 +109,9 @@
     "id": "vitaminder",
     "name": "Vitaminder",
     "description": "A simple vitamin reminder app. Tap the star to log your vitamins and stay on track with your daily supplements.",
-    "version": "1.2.23",
+    "version": "1.2.24",
     "author": "Kevin Driedger",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.2.23/vitaminder-v1.2.23.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.2.24/vitaminder-v1.2.24.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/vitaminder.png",
     "tags": [
       "health",
@@ -121,7 +121,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://dev.azure.com/linuxbox0948/vitaminder/_git/vitaminder",
-    "changelog": "v1.2.23: Fix alarm not firing — stop clearing plugin cache on every app init (was silently nuking the scheduled alarm if the init→reschedule sequence was interrupted)",
+    "changelog": "v1.2.24: NFC tap now works directly from the home screen — no need to open the Acknowledge screen. Trusted card verification still applies; unrecognized cards show a brief error.",
     "status": "active",
     "packageName": "ca.extremedesigners.vitaminder"
   },
