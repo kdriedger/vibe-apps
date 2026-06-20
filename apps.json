@@ -45,7 +45,11 @@
     "changelog": "v0.5.14: Sync success now shows as a proper Material SnackBar (floating toast) instead of a persistent banner. Fix copy/cut context menu. Google login needs GCP update.",
     "packageName": "ca.extremedesigners.bible_keep",
     "status": "active",
-    "screenshots": []
+    "screenshots": [
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/bible-keep_1.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/bible-keep_2.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/bible-keep_3.png"
+    ]
   },
   {
     "id": "sheetapp",
