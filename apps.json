@@ -20,6 +20,14 @@
     "packageName": "ca.extremedesigners.tetris_2048",
     "status": "active",
     "screenshots": [
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_1.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_2.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_3.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_4.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_5.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_6.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_7.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_8.png",
       "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_9.png",
       "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_10.png",
       "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_11.png",
@@ -98,7 +106,11 @@
     "screenshots": [
       "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/twenty48_1.png",
       "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/twenty48_2.png",
-      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/twenty48_3.png"
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/twenty48_3.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_9.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_10.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_11.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/2048-tetris_12.png"
     ]
   },
   {
