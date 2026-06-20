@@ -26,22 +26,49 @@
     ]
   },
   {
-    "id": "habitvibe",
-    "name": "HabitVibe",
-    "description": "Beautiful habit tracker that actually feels good to use. Vibe-coded in one weekend.",
-    "version": "1.2.3",
+    "id": "bible-keep",
+    "name": "Bible Keep",
+    "description": "Google Keep-style note-taking app with Bible verse insertion. Create text notes, auto-detect verse references (e.g. 'matt 5:12'), and fetch verses from API.Bible in NLT translation.",
+    "version": "0.5.14",
     "author": "linuxbox",
-    "downloadUrl": "https://example.com/habitvibe.apk",
-    "iconUrl": "https://example.com/icons/habit.png",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v0.5.14/bible-keep-v0.5.14.apk",
+    "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/bible-keep.png",
     "tags": [
       "productivity",
-      "habits"
+      "notes",
+      "bible",
+      "reference"
     ],
     "price": 0,
     "websiteUrl": "",
-    "sourceUrl": "",
-    "packageName": "",
-    "status": "active"
+    "sourceUrl": "https://github.com/kdriedger/bible.keep",
+    "changelog": "v0.5.14: Sync success now shows as a proper Material SnackBar (floating toast) instead of a persistent banner. Fix copy/cut context menu. Google login needs GCP update.",
+    "packageName": "ca.extremedesigners.bible_keep",
+    "status": "active",
+    "screenshots": []
+  },
+  {
+    "id": "sheetapp",
+    "name": "SheetApp",
+    "description": "Convert spreadsheets (CSV/XLSX) and fillable PDFs into full Android apps. Multi-screen forms with dynamic repeat rows, PDF converter for AcroForm/XFA (Ontario lease), lists, dashboards, and details. Rich native fields (photo, signature, GPS, barcode, graphs), formulas, conditionals, Google Sheets sync, and standalone APK generator.",
+    "version": "1.7.0",
+    "author": "Kevin Driedger",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.7.0/sheetapp-v1.7.0.apk",
+    "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/sheetapp.png",
+    "tags": [
+      "tools",
+      "productivity",
+      "spreadsheet",
+      "forms",
+      "data"
+    ],
+    "price": 0,
+    "websiteUrl": "",
+    "sourceUrl": "https://github.com/kdriedger/sheetapp",
+    "changelog": "v1.7.0: Dynamic repeat field groups (add/remove rows) for PDF-derived forms. PDF converter maps XFA repeatable sections (utilities, landlord/tenant signatures) to SheetApp repeat/endrepeat rows. Ontario 2229e lease demo XLSX included. Yes/no stays as paired checkboxes; signatures as name + date + signature fields. Demo video: docs/demos/2229e_demo.mp4.",
+    "packageName": "ca.extremedesigners.sheetapp",
+    "status": "active",
+    "screenshots": []
   },
   {
     "id": "twenty48",
@@ -99,7 +126,7 @@
     "version": "1.2.24",
     "author": "linuxbox",
     "downloadUrl": "",
-    "iconUrl": "",
+    "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/vitaminder.png",
     "tags": [
       "health",
       "nfc",
@@ -122,7 +149,7 @@
     "version": "1.0.0",
     "author": "linuxbox",
     "downloadUrl": "",
-    "iconUrl": "",
+    "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/watch-battery.png",
     "tags": [
       "watch",
       "battery",
