@@ -70,7 +70,11 @@
     "changelog": "v1.7.0: Dynamic repeat field groups (add/remove rows) for PDF-derived forms. PDF converter maps XFA repeatable sections (utilities, landlord/tenant signatures) to SheetApp repeat/endrepeat rows. Ontario 2229e lease demo XLSX included. Yes/no stays as paired checkboxes; signatures as name + date + signature fields. Demo video: docs/demos/2229e_demo.mp4.",
     "packageName": "ca.extremedesigners.sheetapp",
     "status": "active",
-    "screenshots": []
+    "screenshots": [
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/sheetapp_1.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/sheetapp_2.png",
+      "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/media/screenshots/sheetapp_3.png"
+    ]
   },
   {
     "id": "twenty48",
