@@ -55,7 +55,7 @@
     "description": "Convert spreadsheets (CSV/XLSX) and fillable PDFs into full Android apps. Multi-screen forms with dynamic repeat rows, PDF converter for AcroForm/XFA (Ontario lease), lists, dashboards, and details. Rich native fields (photo, signature, GPS, barcode, graphs), formulas, conditionals, Google Sheets sync, and standalone APK generator.",
     "version": "1.7.1",
     "author": "Kevin Driedger",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.7.1/sheetapp-v1.7.1.apk",
+    "downloadUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/sheetapp-v1.7.1.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/sheetapp.png",
     "tags": [
       "tools",
