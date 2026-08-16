@@ -2,9 +2,9 @@
   "id": "3z",
   "name": "3z",
   "description": "A Threes-inspired sliding number puzzle. Merge 1s and 2s into 3s, then doubles, with score badges that fly onto tiles.",
-  "version": "1.6.9",
+  "version": "1.6.11",
   "author": "linuxbox",
-  "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.6.9/3z-v1.6.9.apk",
+  "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.6.11/3z-v1.6.11.apk",
   "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/3z.png",
   "tags": [
     "game",
@@ -14,7 +14,7 @@
   "price": 0,
   "websiteUrl": "",
   "sourceUrl": "https://dev.azure.com/linuxbox0948/3z/_git/3z",
-  "changelog": "v1.6.9: Tap score screenshots to replay the endgame celebration. Best score gets full fireworks + NEW BEST; others get the soft burst. v1.6.8: badges settle with no snap.",
+  "changelog": "v1.6.11: Scripture card on launch and New game — 1000 KJV verses, first install is John 3:16. v1.6.9: tap score screenshots to replay the endgame celebration.",
   "packageName": "ca.extremedesigners.threez",
   "status": "active",
   "screenshots": []
