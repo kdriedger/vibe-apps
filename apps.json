@@ -27,9 +27,9 @@
     "id": "3z",
     "name": "3z",
     "description": "A Threes-inspired sliding number puzzle. Merge 1s and 2s into 3s, then doubles, with score badges that fly onto tiles.",
-    "version": "1.6.13",
+    "version": "1.7.3",
     "author": "linuxbox",
-    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.6.13/3z-v1.6.13.apk",
+    "downloadUrl": "https://github.com/kdriedger/vibe-apps/releases/download/v1.7.3/threez-v1.7.3.apk",
     "iconUrl": "https://raw.githubusercontent.com/kdriedger/vibe-apps/main/icons/3z.png",
     "tags": [
       "game",
@@ -39,7 +39,7 @@
     "price": 0,
     "websiteUrl": "",
     "sourceUrl": "https://dev.azure.com/linuxbox0948/3z/_git/3z",
-    "changelog": "v1.6.13: Tap the scripture card to dismiss. Arm64 build so it installs over 1.6.10. v1.6.12: NLT online, KJV fallback.",
+    "changelog": "v1.7.3: Star/like button on scripture overlay — liked verses appear more frequently in the random walk. Tests for weighted verse selection. v1.6.13: Tap the scripture card to dismiss. Arm64 build so it installs over 1.6.10. v1.6.12: NLT online, KJV fallback.",
     "packageName": "ca.extremedesigners.threez",
     "status": "active",
     "screenshots": []
